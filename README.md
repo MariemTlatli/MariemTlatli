@@ -1,25 +1,13 @@
 # 👋 Hi there, I'm **Mariem Tlatli**!
-<h3 align="center">Web Developer from Tunisia 🇹🇳</h3>
-
+ I’m a software engineering student at ISSAT Sousse 🇹🇳
+ - LinkedIn: [linkedin.com/in/marie-profile](https://www.linkedin.com)
+- GitHub: [github.com/marie-github](https://github.com/marie-github)
 <p align="center">
   <a href="https://github.com/MariemTlatli" target="_blank">
     <img src="https://github.com/Eya-Laouini/Eya-Laouini/blob/main/programmer.gif" alt="Header Image" width="300" height="auto">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariemtlatli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/MariemTlatli" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Building responsive and user-friendly web applications.</em>
-</p>
-
+  
 ## 🛠️ Technologies & Tools
 Here are some of the tools and technologies I work with:
 
@@ -55,7 +43,7 @@ Here are some of my recent projects:
 
 ---
 
-### 🌟 [Project 4: Service Order Management API](https://github.com/MariemTlatli/L-Mobile-back)
+### 🌟 [Project 4: Service Order Management ](https://github.com/MariemTlatli/L-Mobile-back)
 - **Type:** API for Service Order Management
 - **Technologies:** Node.js, Express.js, React
 - **Description:** An API designed for managing service orders within a company, providing technical assistance and streamlining operations with robust features.
@@ -79,7 +67,6 @@ Here are some of my recent projects:
 ## 🤝 Soft Skills
 In addition to my technical expertise, I bring a strong set of soft skills that enhance my collaboration and effectiveness in the workplace:
 
----
 
 ### 📢 Communication
 - **Description:** I excel in team environments and can articulate ideas and solutions clearly, ensuring everyone is aligned and informed.
@@ -100,7 +87,3 @@ In addition to my technical expertise, I bring a strong set of soft skills that 
 
 
 
-
-## 📫 Get in Touch
-- LinkedIn: [linkedin.com/in/marie-profile](https://www.linkedin.com)
-- GitHub: [github.com/marie-github](https://github.com/marie-github)
