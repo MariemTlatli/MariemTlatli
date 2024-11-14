@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Mariem Tlatli**!
  I’m a software engineering student at ISSAT Sousse 🇹🇳
  - LinkedIn: [linkedin.com/in/marie-profile](https://www.linkedin.com)
-- GitHub: [github.com/marie-github](https://github.com/marie-github)
+- GitHub:[github.com/marie-github](https://github.com/marie-github)](https://github.com/MariemTlatli)
 <p align="center">
   <a href="https://github.com/MariemTlatli" target="_blank">
     <img src="https://github.com/Eya-Laouini/Eya-Laouini/blob/main/programmer.gif" alt="Header Image" width="300" height="auto">
